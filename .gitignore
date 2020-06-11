@@ -108,3 +108,6 @@ dist
 
 #expo
 mobile/.expo
+
+#uploads
+backend/uploads
