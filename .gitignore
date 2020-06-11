@@ -112,3 +112,5 @@ mobile/.expo
 #uploads
 backend/uploads/*
 !backend/uploads/.gitkeep
+
+*.sqlite
