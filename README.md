@@ -10,7 +10,7 @@ The main focus of the course was to delivery an application capable of simple re
 <img src="https://j.gifs.com/gZjWnY.gif" alt="screenshot-1" height="430" style="max-width:100%;"> 
 
 #### Mobile
-<img src="https://i.imgur.com/ihN26qR.jpg" alt="screenshot-1" height="430" width="24%" style="max-width:100%;"> <img src="https://i.imgur.com/QjmrE1l.jpg" alt="screenshot-2" height="430" width="24%" style="max-width:100%;"> <img src="https://i.imgur.com/pxHXW99.jpg" alt="screenshot-3" height="430" width="24%" style="max-width:100%;"> <img src="https://i.imgur.com/pxHXW99.jpg" alt="screenshot-3" height="430" width="24%" style="max-width:100%;"> <img src="https://i.imgur.com/FmawFIj.jpg" alt="screenshot-4" height="430" width="24%" style="max-width:100%;">
+<img src="https://i.imgur.com/ihN26qR.jpg" alt="screenshot-1" height="430" width="24%" style="max-width:100%;"> <img src="https://i.imgur.com/QjmrE1l.jpg" alt="screenshot-2" height="430" width="24%" style="max-width:100%;"> <img src="https://i.imgur.com/pxHXW99.jpg" alt="screenshot-3" height="430" width="24%" style="max-width:100%;"> <img src="https://i.imgur.com/FmawFIj.jpg" alt="screenshot-4" height="430" width="24%" style="max-width:100%;">
 
 ## Challenging myself
 Instead of implementing the mobile app with a search at Home page using input box, I have used the IBGE API (used as well in the web application) to fetch a list of cities based on the selected state.
