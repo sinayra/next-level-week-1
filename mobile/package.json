@@ -5,7 +5,8 @@
     "android": "node_modules/.bin/expo start --android",
     "ios": "node_modules/.bin/expo start --ios",
     "web": "node_modules/.bin/expo start --web",
-    "eject": "node_modules/.bin/expo eject"
+    "eject": "node_modules/.bin/expo eject",
+    "update:packages": "npm audit fix -f && npm-check-updates -u && npm update && npm install"
   },
   "dependencies": {
     "@expo-google-fonts/roboto": "^0.1.0",
@@ -36,7 +37,8 @@
     "@types/react": "~16.9.23",
     "@types/react-native": "~0.61.17",
     "babel-preset-expo": "~8.1.0",
-    "typescript": "~3.8.3"
+    "typescript": "~3.8.3",
+    "npm-check-updates": "^7.0.1"
   },
   "private": true
 }

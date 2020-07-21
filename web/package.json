@@ -25,7 +25,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "update:packages": "npm audit fix -f && npm-check-updates -u && npm update && npm install"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -44,6 +45,7 @@
   },
   "devDependencies": {
     "@types/react-leaflet": "^2.5.1",
-    "@types/react-router-dom": "^5.1.5"
+    "@types/react-router-dom": "^5.1.5",
+    "npm-check-updates": "^7.0.1"
   }
 }
